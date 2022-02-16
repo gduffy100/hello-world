@@ -1,4 +1,8 @@
 # hello-world
-just another repository
+## just another repository
 
-somne other stuff
+*some other stuff*
+---
+```javascript
+javascript++
+```
